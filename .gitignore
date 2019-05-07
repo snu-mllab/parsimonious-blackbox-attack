@@ -1,0 +1,17 @@
+# Cifar-10
+
+cifar10/models/**
+cifar10/logs/**
+
+# ImageNet
+imagenet/logs/**
+imagenet/tools/data/**
+
+# pycache
+**/*.pyc
+**/*.pyo
+
+# slurm file
+**/multi_sbatch_script.py
+**/single_srun_script.sh
+
