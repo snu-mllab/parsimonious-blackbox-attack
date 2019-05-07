@@ -65,3 +65,4 @@ python main.py --epsilon 0.05 --max_queries 10000
 cd imagenet
 python main.py --targeted --epsilon 0.05 --max_queries 100000
 ```
+
