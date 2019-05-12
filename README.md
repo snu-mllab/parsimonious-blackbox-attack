@@ -1,11 +1,11 @@
-# Code for Parsimonious Black-box Attack via Efficient Combinatorial Optimization
+# Code for Parsimonious Black-Box Attacks via Efficient Combinatorial Optimization
 
-This code is for reproducing the results in the paper "Parsimonious Black-box Attack via Efficient Combinatorial Optimization" accepted at ICML 2019.
+This code is for reproducing the results in the paper "Parsimonious Black-Box Attacks via Efficient Combinatorial Optimization" accepted at ICML 2019.
 
 ## Citing this work
 ```
 @inproceedings{moonICML19,
-    title= {Parsimonious Black-box Attack via Efficient Combinatorial Optimization},
+    title= {Parsimonious Black-Box Attacks via Efficient Combinatorial Optimization},
     author={Moon, Seungyong and An, Gaon and Song, Hyun Oh},
     booktitle = {Proceedings of the 36th International Conference on Machine Learning, {ICML} 2019},
     year={2019}
