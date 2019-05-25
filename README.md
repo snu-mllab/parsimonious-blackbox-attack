@@ -7,7 +7,7 @@ This code is for reproducing the results in the paper "Parsimonious Black-Box Ad
 @inproceedings{moonICML19,
     title= {Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization},
     author={Moon, Seungyong and An, Gaon and Song, Hyun Oh},
-    booktitle = {Proceedings of the 36th International Conference on Machine Learning, {ICML} 2019},
+    booktitle = {International Conference on Machine Learning (ICML)},
     year={2019}
 }
 ```
