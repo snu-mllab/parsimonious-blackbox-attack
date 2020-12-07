@@ -1,6 +1,6 @@
 # Code for Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization
 
-This code is for reproducing the results in the paper "Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization" accepted at ICML 2019.
+This code is for reproducing the results in the paper, [Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization](https://arxiv.org/abs/1905.06635), accepted at ICML 2019.
 
 ## Citing this work
 ```
