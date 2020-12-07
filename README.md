@@ -76,5 +76,8 @@ cd imagenet
 python main.py --targeted --epsilon 0.05 --max_queries 100000
 ```
 
+## Acknowledgements
+This work was partially supported by Samsung Advanced Institute of Technology and Institute for Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No.2019-0-01367, BabyMind).
+
 ## License
 MIT License 
